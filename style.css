@@ -30,6 +30,11 @@ body {
   font-family: "Helvetica Neue", Arial, sans-serif; 
   font-weight: 400;
   color: #FFFAFA;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 100%;
+  transform: translateY(-50%);
 }
 
 article {
